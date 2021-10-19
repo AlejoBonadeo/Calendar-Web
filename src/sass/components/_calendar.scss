@@ -1,0 +1,13 @@
+.calendar__screen {
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+}
+
+.rbc-calendar {
+    height: 100%;
+}
+
+.rbc-row, .rbc-row-content {
+    z-index: 0;
+}
